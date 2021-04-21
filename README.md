@@ -1,9 +1,9 @@
-# Sponsorname Contest
-- XXX main award pot
-- XXX gas optimization award pot
-- Findings submitted as issues in this repo [using the C4 form](https://c4-XXXXXXXX.netlify.app/)
-- Starts XXX XXX XX 00:00 UTC
-- Ends XXX XXX XX 23:59 UTC
+# NFTX Contest
+- ~$60K (ETH) main award pot
+- ~$6K (ETH) gas optimization award pot
+- Findings submitted as issues in this repo [using the C4 form](https://c4-nftx.netlify.app/)
+- Starts May 5 00:00 UTC
+- Ends May 11 23:59 UTC
 
 ---
 
