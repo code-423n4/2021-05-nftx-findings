@@ -1,0 +1,9 @@
+{
+  "contest": "7",
+  "handle": "maplesyrup",
+  "address": "0x8b8ce5B07E0a94Fe1B446035EE5D651F90aa7a36",
+  "risk": "3",
+  "title": "Inconsistent solidity pragma",
+  "issueId": 3,
+  "issueUrl": "https://github.com/code-423n4/2021-05-nftx-findings/issues/3"
+}
