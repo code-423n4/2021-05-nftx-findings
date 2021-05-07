@@ -1,0 +1,9 @@
+{
+  "contest": "7",
+  "handle": "0xsomeone",
+  "address": "0xa462fae8b85FFf172660c5D9e3C98C84691CA4d2",
+  "risk": "2",
+  "title": "Fee Distribution Re-Entrancy",
+  "issueId": 11,
+  "issueUrl": "https://github.com/code-423n4/2021-05-nftx-findings/issues/11"
+}
