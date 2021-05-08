@@ -1,0 +1,9 @@
+{
+  "contest": "7",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "0",
+  "title": "no check _rangeStart<=_rangeEnd",
+  "issueId": 17,
+  "issueUrl": "https://github.com/code-423n4/2021-05-nftx-findings/issues/17"
+}
