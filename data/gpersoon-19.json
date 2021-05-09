@@ -1,0 +1,9 @@
+{
+  "contest": "7",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "G",
+  "title": "withdrawNFTsTo & afterRedeemHook inefficient for ERC1155",
+  "issueId": 19,
+  "issueUrl": "https://github.com/code-423n4/2021-05-nftx-findings/issues/19"
+}
