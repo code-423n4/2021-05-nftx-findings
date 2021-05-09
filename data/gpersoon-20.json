@@ -1,0 +1,9 @@
+{
+  "contest": "7",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "3",
+  "title": "Missing allValidNFTs and afterRedeemHook with swapTo?",
+  "issueId": 20,
+  "issueUrl": "https://github.com/code-423n4/2021-05-nftx-findings/issues/20"
+}
