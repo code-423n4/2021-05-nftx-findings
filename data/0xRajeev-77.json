@@ -1,0 +1,9 @@
+{
+  "contest": "7",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Front-running risk of direct redeem/swap operations",
+  "issueId": 77,
+  "issueUrl": "https://github.com/code-423n4/2021-05-nftx-findings/issues/77"
+}
