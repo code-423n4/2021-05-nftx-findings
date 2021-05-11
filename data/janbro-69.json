@@ -1,0 +1,9 @@
+{
+  "contest": "7",
+  "handle": "janbro",
+  "address": "0xA2bA02db5c34B11C1Be0A25417851C9DfC5d4467",
+  "risk": "2",
+  "title": "A malicious receiver can cause another receiver to lose out on distributed fees by returning `false` for `tokensReceived` when receiveRewards is called on their receiver contract.",
+  "issueId": 69,
+  "issueUrl": "https://github.com/code-423n4/2021-05-nftx-findings/issues/69"
+}
