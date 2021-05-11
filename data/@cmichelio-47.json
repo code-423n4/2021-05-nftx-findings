@@ -1,0 +1,9 @@
+{
+  "contest": "7",
+  "handle": "@cmichelio",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "Unbounded iteration in `NFTXEligiblityManager.distribute` over `_feeReceivers`",
+  "issueId": 47,
+  "issueUrl": "https://github.com/code-423n4/2021-05-nftx-findings/issues/47"
+}
