@@ -1,0 +1,9 @@
+{
+  "contest": "7",
+  "handle": "jvaqa",
+  "address": "0xEcb66CC9e366aF7351DbAA52Fa0b290200eC7532",
+  "risk": "1",
+  "title": "Any User Can Deploy Duplicate Vaults With Identical Assets and Symbols, Fragmenting Liquidity And Confusing Users",
+  "issueId": 94,
+  "issueUrl": "https://github.com/code-423n4/2021-05-nftx-findings/issues/94"
+}
