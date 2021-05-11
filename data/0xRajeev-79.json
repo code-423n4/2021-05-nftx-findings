@@ -1,0 +1,9 @@
+{
+  "contest": "7",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "2",
+  "title": "Use safeTransfer/safeTransferFrom consistently instead of transfer/transferFrom",
+  "issueId": 79,
+  "issueUrl": "https://github.com/code-423n4/2021-05-nftx-findings/issues/79"
+}
