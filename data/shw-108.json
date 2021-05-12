@@ -1,0 +1,9 @@
+{
+  "contest": "7",
+  "handle": "shw",
+  "address": "0xB48B9694BeC446E3Bf54788f913174a6580a279F",
+  "risk": "1",
+  "title": "User can avoid paying `directRedeemFee` by passively controlling the output of `getPseudoRand`",
+  "issueId": 108,
+  "issueUrl": "https://github.com/code-423n4/2021-05-nftx-findings/issues/108"
+}
