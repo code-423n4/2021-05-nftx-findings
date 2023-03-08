@@ -1,3 +1,11 @@
+---
+sponsor: "NFTX"
+slug: "2021-05-nftx"
+date: "2021-06-21"
+title: "NFTX"
+findings: "https://github.com/code-423n4/2021-05-nftx-findings/issues"
+contest: 8
+---
 
 # Overview
 
